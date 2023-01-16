@@ -1,0 +1,12 @@
+C:\Users\ofnk1\source\repos\ponOS\ponOS\bin\Debug\net6.0\ponOS.deps.json
+C:\Users\ofnk1\source\repos\ponOS\ponOS\bin\Debug\net6.0\ponOS.dll
+C:\Users\ofnk1\source\repos\ponOS\ponOS\bin\Debug\net6.0\ponOS.pdb
+C:\Users\ofnk1\source\repos\ponOS\ponOS\obj\Debug\net6.0\ponOS.csproj.AssemblyReference.cache
+C:\Users\ofnk1\source\repos\ponOS\ponOS\obj\Debug\net6.0\ponOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ofnk1\source\repos\ponOS\ponOS\obj\Debug\net6.0\ponOS.AssemblyInfoInputs.cache
+C:\Users\ofnk1\source\repos\ponOS\ponOS\obj\Debug\net6.0\ponOS.AssemblyInfo.cs
+C:\Users\ofnk1\source\repos\ponOS\ponOS\obj\Debug\net6.0\ponOS.csproj.CoreCompileInputs.cache
+C:\Users\ofnk1\source\repos\ponOS\ponOS\obj\Debug\net6.0\ponOS.dll
+C:\Users\ofnk1\source\repos\ponOS\ponOS\obj\Debug\net6.0\refint\ponOS.dll
+C:\Users\ofnk1\source\repos\ponOS\ponOS\obj\Debug\net6.0\ponOS.pdb
+C:\Users\ofnk1\source\repos\ponOS\ponOS\obj\Debug\net6.0\ref\ponOS.dll
